@@ -73,9 +73,10 @@ I am just a rookie, I wanna record some of my progress on this website
 - *2021.05*	Third Prize, The 15th Mathematical Contest in Modeling, NUIST
 
 # 📖 Educations
-- *2024.09 - now*, PhD, Geography, Hong Kong Baptist University
+- *2024.09 - now*, PhD student, Geography, Hong Kong Baptist University
 - *2023.09 - 2024.09*, MSc, Environmental Data Science and Machine Learning, Imperial College London
 - *2019.09 - 2023.06*, BSc, Atmospheric Sciences, Nanjing University of Information Science and Technology & University of Reading
+
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

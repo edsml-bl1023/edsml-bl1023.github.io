@@ -83,7 +83,7 @@ I am just a rookie, I wanna record some of my progress on this website
 # 🏓 Table Tennis
 I like playing table tennis outside the lab. I used to be a member of NUIST Team and Imperial College London. We have won several prizes and cups.
 - *2021.06*, 第11届中国大学生阳光体育乒乓球比赛**第八名**
-- *2024*, BUCS Men's Premier (North), 1st.
+- *2024*, BUCS Men's Premier (South), 1st.
 - *2024*, BUCS Men's South Eastern Tier 1, 1st.
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -116,6 +116,7 @@ I like playing table tennis outside the lab. I used to be a member of NUIST Team
 - Analyzed rainstorm data in Henan, drew the precipitation distribution map, and gave warning of danger during 100 hours of volunteer work
 
 # 👨‍🏫 Teaching Assistant
-*2025*, GEOG 4005, Advanced Climatology, Tutorial
+*2025*, GEOG 4005, Advanced Climatology
 
-Update：2025/1/23
+
+Update：Mar/26/2025

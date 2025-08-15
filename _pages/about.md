@@ -103,6 +103,9 @@ I like playing table tennis outside the lab. I used to be a member of NUIST Team
 
 
 # 💻 Internships
+
+*2025.08* Tsinghua University MEIC and CNCAP Summer School.
+
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 *2021.10 - 2022.09* Observing Clouds and Sky" Practice Plan, Comprehensive Observation Training and Practice Base of China Meteorological Administration, Nanjing, China
 - Managed observation operation system, maintained meteorological instruments and controlled the quality of observation data
@@ -115,6 +118,7 @@ I like playing table tennis outside the lab. I used to be a member of NUIST Team
 
 *2021.07* Zhuoming Disaster Information Service Center
 - Analyzed rainstorm data in Henan, drew the precipitation distribution map, and gave warning of danger during 100 hours of volunteer work
+
 
 # 👨‍🏫 Teaching Assistant
 *2025*, GEOG 4005, Advanced Climatology

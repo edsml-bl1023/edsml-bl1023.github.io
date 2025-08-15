@@ -83,9 +83,9 @@ I am just a rookie, I wanna record some of my progress on this website
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 # 🏓 Table Tennis
 I like playing table tennis outside the lab. I used to be a member of NUIST Team and Imperial College London. We have won several prizes and cups.
-- *2021.06*, 第11届中国大学生阳光体育乒乓球比赛**第八名**
 - *2024*, BUCS Men's Premier (South), 1st.
 - *2024*, BUCS Men's South Eastern Tier 1, 1st.
+- *2021.06*, 第11届中国大学生阳光体育乒乓球比赛**第八名**
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>

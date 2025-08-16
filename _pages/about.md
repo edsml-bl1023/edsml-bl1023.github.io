@@ -25,7 +25,7 @@ I did something about accessing the precipitation with satellite data supervised
 
 I am just a rookie, I wanna record some of my progress on this website 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
-  Google Scholar citations <strong><span id='total_cit'>16</span></strong>
+  Google Scholar citations <strong><span id='total_cit'>22</span></strong>
 </a> 
 <!-- (You can also use the Google Scholar badge 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
@@ -38,8 +38,9 @@ I am just a rookie, I wanna record some of my progress on this website
 <!-- https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao -->
 
 # 🔥 News
-- *2023*: &nbsp;🎉🎉 I graduated from Imperial College London for MSc.
-- *2023*: &nbsp;🎉🎉 I started my PhD degree under the supervision of Prof. Meng Gao. 
+- *2025.08*: &nbsp;🎉🎉 I was awarded Talent Development Scholarship by HKSAR
+- *2023.09*: &nbsp;🎉🎉 I graduated from Imperial College London for MSc.
+- *2023.09*: &nbsp;🎉🎉 I started my PhD degree under the supervision of Prof. Meng Gao. 
 
 # 📝 Publications 
 
@@ -59,6 +60,7 @@ I am just a rookie, I wanna record some of my progress on this website
 
 # 🎖 Honors and Awards
 ## Honors
+- *2025.08* Talent Development Scholarship, 10,000 HKD, HKSAR                                          
 - *2023.06* Outstanding Graduate, NUIST                                          
 - *2023.06* First-class Scholarship, NUIST
 - *2021.11*	Outstanding Student, NUIST                                                                         
@@ -66,7 +68,7 @@ I am just a rookie, I wanna record some of my progress on this website
 - *2020.11* First-class Scholarship, NUIST
 
 ## Awards
-- *2022.05*	Second Prize, The 12th Amazing Ideas of Science and Technology Innovation Competition, NUIST                                                             
+- *2022.05*	Second Prize, The 12th Amazing Ideas of Science and Technology Innovation Competition, NUIST                                           
 - *2021.11*	Second Prize, Higher Education Association Cup National College Student Mathematical Contest in Modeling Undergraduate Group Jiangsu Division, China Society for Industrial and Applied Mathematics                                                  
 - *2021.11*	First Place, The 12th "Challenge Cup College Student Entrepreneurship Plan Competition", School of Atmospheric Sciences, NUIST
 - *2021.06*	First Prize, National University Students Sunshine Table Tennis Competition, FUSC 

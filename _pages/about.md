@@ -25,7 +25,7 @@ I did something about accessing the precipitation with satellite data supervised
 
 I am just a rookie, I wanna record some of my progress on this website 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
-  Google Scholar citations <strong><span id='total_cit'>22</span></strong>
+  Google Scholar citations <strong><span id='total_cit'>23</span></strong>
 </a> 
 <!-- (You can also use the Google Scholar badge 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
@@ -123,7 +123,7 @@ I like playing table tennis outside the lab. I used to be a member of NUIST Team
 
 
 # 👨‍🏫 Teaching Assistant
-*2025*, GEOG 4005, Advanced Climatology
+*2025 Spring*, GEOG 4005, Advanced Climatology
+*2025 Fall*, Selected Topics in the Geography of China (Physical& Environmental Geography) 
 
-
-Update：Mar/26/2025
+Update：Aug/28/2025

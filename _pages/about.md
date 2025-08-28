@@ -123,7 +123,7 @@ I like playing table tennis outside the lab. I used to be a member of NUIST Team
 
 
 # 👨‍🏫 Teaching Assistant
-- *2025 Fall*, GEOG 4057, Selected Topics in the Geography of China (Physical& Environmental Geography)
+- *2025 Autumn*, GEOG 4057, Selected Topics in the Geography of China (Physical& Environmental Geography)
 - *2025 Spring*, GEOG 4005, Advanced Climatology
 
 

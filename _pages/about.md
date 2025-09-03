@@ -21,7 +21,7 @@ My name is Bofan Liu.
 
 My bachelor's degree is a joint degree in Atmospheric Sciences from University of Reading and Nanjing University of Information Science and Technology (2019-2023). I've graduated from in Imperial College London studying Environmental Data Science and Machine Learning(2023-2024). Now I am a Ph.D. student at Department of Geography HKBU (2024-).
 
-I did something about accessing the precipitation with satellite data supervised by Prof. Emily Blakc and Dr. Ross Maidment from UoR. Meanwhile, Prof. Wu Ying supervised me to do some research on the cylcone and the precipitation at NUIST. At Imperial, under the supervison of Dr. César Quilodrán-Casas (Imperial) and Dr. Laura Anne Mansfield (Standford Uni.), I started to combine machine Learning with climate models. Now, Prof. GAO Meng (HKBU) supervises me to investigate the interactions between climate and aerosols with climate models. 
+I did something about accessing the precipitation with satellite data supervised by Prof. Emily Black and Dr. Ross Maidment from UoR. Meanwhile, Prof. Wu Ying supervised me to do some research on the cylcone and the precipitation at NUIST. At Imperial, under the supervison of Dr. César Quilodrán-Casas (Imperial) and Dr. Laura Anne Mansfield (Standford Uni.), I started to combine machine Learning with climate models. Now, Prof. GAO Meng (HKBU) supervises me to investigate the interactions between climate and aerosols with climate models. 
 
 I am just a rookie, I wanna record some of my progress on this website 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>

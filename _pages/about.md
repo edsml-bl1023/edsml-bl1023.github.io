@@ -38,6 +38,7 @@ I am just a rookie, I wanna record some of my progress on this website
 <!-- https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao -->
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 I passed the PhD Qualifying Exam.
 - *2025.08*: &nbsp;🎉🎉 I was awarded Talent Development Scholarship by HKSAR
 - *2023.09*: &nbsp;🎉🎉 I graduated from Imperial College London for MSc.
 - *2023.09*: &nbsp;🎉🎉 I started my PhD degree under the supervision of Prof. Meng Gao. 

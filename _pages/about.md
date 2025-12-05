@@ -25,7 +25,7 @@ I did something about accessing the precipitation with satellite data supervised
 
 I am just a rookie, I wanna record some of my progress on this website 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
-  Google Scholar citations <strong><span id='total_cit'>23</span></strong>
+  Google Scholar citations <strong><span id='total_cit'>25</span></strong>
 </a> 
 <!-- (You can also use the Google Scholar badge 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>

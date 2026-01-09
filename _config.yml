@@ -7,7 +7,11 @@
 
 # Site Settings
 title                    : "Bofan Liu"
-description              : "HKBU AAB1043"
+# description              : ""
+description: >
+  PhD student | Climate Modeling | Aerosols | Machine Learning
+  @ Department of Geography, HKBU
+
 repository               : "edsml-bl1023/edsml-bl1023.github.io"
 google_scholar_stats_use_cdn : true
 

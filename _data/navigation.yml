@@ -1,25 +1,33 @@
-# main links links
 main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Short Bio"
+    url: "/#short-bio"
+
+  - title: "Research Interests"
+    url: "/#research-interests"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Research Experience"
+    url: "/#research-experience"
+
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Honors & Awards"
+    url: "/#honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Teaching"
+    url: "/#teaching-assistant"
 
-  - title: "Table Tennis"
-    url: "/#-table-tennis"
+  - title: "Internships & Service"
+    url: "/#internships--service"
 
-  - title: "Internships"
-    url: "/#-internships"
-
-  - title: "Teaching Assistant"
-    url: "/#-teaching-assistant"
+  - title: "Personal Interests"
+    url: "/#personal-interests"

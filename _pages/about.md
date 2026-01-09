@@ -23,24 +23,19 @@ redirect_from:
 PhD Student | Climate Modeling | Aerosols | Machine Learning  
 Department of Geography, Hong Kong Baptist University (HKBU)
 
-<!-- <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
-  Google Scholar citations <strong><span id='total_cit'>26</span></strong>
-</a> -->
-
 <a href="https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao" target="_blank">
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&label=citations&style=flat" />
 </a>
 
-
 ---
 
-## Short Bio
+## Short Bio {#short-bio}
 
 I am currently a PhD student in the Department of Geography at Hong Kong Baptist University (HKBU), supervised by Prof. Meng Gao. My research focuses on climate–aerosol interactions and the application of machine learning methods in climate modeling. This website documents my research progress, academic activities, and selected outputs.
 
 ---
 
-## Research Interests
+## Research Interests {#research-interests}
 
 - Climate modeling and Earth system modeling  
 - Aerosol–radiation interactions  
@@ -50,7 +45,7 @@ I am currently a PhD student in the Department of Geography at Hong Kong Baptist
 
 ---
 
-## Education
+## Education {#education}
 
 - **2024.09 – present**, PhD Student, Department of Geography, Hong Kong Baptist University  
 - **2023.09 – 2024.09**, MSc, Environmental Data Science and Machine Learning, Imperial College London  
@@ -58,7 +53,7 @@ I am currently a PhD student in the Department of Geography at Hong Kong Baptist
 
 ---
 
-## Research Experience
+## Research Experience {#research-experience}
 
 During my undergraduate studies, I worked on satellite-based precipitation retrieval under the supervision of **Prof. Emily Black** and **Dr. Ross Maidment** (University of Reading). At Nanjing University of Information Science and Technology (NUIST), I conducted research on tropical cyclones and precipitation under the supervision of **Prof. Ying Wu**.
 
@@ -68,7 +63,7 @@ Currently, under the supervision of **Prof. Meng Gao** at HKBU, my PhD research 
 
 ---
 
-## News
+## News {#news}
 
 - *2025.11*: 🎉 Passed the PhD Qualifying Exam.  
 - *2025.08*: 🎉 Awarded the Talent Development Scholarship by HKSAR.  
@@ -77,7 +72,7 @@ Currently, under the supervision of **Prof. Meng Gao** at HKBU, my PhD research 
 
 ---
 
-## Publications
+## Publications {#publications}
 
 - [Near-Surface NO2 Concentration Estimation by Random Forest Modeling and Sentinel-5P and Ancillary Data](https://www.mdpi.com/2072-4292/14/15/3612)  
   Meixin Li, Ying Wu, Yansong Bao, **Bofan Liu**, George P. Petropoulos  
@@ -89,7 +84,7 @@ Currently, under the supervision of **Prof. Meng Gao** at HKBU, my PhD research 
 
 ---
 
-## Honors and Awards
+## Honors and Awards {#honors-and-awards}
 
 ### Honors
 - *2025.08* Talent Development Scholarship, 10,000 HKD, HKSAR  
@@ -108,7 +103,7 @@ Currently, under the supervision of **Prof. Meng Gao** at HKBU, my PhD research 
 
 ---
 
-## Teaching Assistant
+## Teaching Assistant {#teaching-assistant}
 
 - *2025–2026 Semester 2*, GEOG 4005, Advanced Climatology  
 - *2025–2026 Semester 1*, GEOG 4057, Selected Topics in the Geography of China (Physical & Environmental Geography)  
@@ -116,7 +111,7 @@ Currently, under the supervision of **Prof. Meng Gao** at HKBU, my PhD research 
 
 ---
 
-## Internships & Service
+## Internships & Service {#internships--service}
 
 - *2025.08* Tsinghua University MEIC and CNCAP Summer School  
 
@@ -135,7 +130,7 @@ Currently, under the supervision of **Prof. Meng Gao** at HKBU, my PhD research 
 
 ---
 
-## Personal Interests
+## Personal Interests {#personal-interests}
 
 I enjoy playing table tennis outside the lab. I previously played for the university teams at NUIST and Imperial College London, and participated in inter-university competitions.
 

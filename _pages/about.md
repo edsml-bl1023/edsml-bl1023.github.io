@@ -25,7 +25,7 @@ I did something about accessing the precipitation with satellite data supervised
 
 I am just a rookie, I wanna record some of my progress on this website 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
-  Google Scholar citations <strong><span id='total_cit'>25</span></strong>
+  Google Scholar citations <strong><span id='total_cit'>26</span></strong>
 </a> 
 <!-- (You can also use the Google Scholar badge 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
@@ -88,7 +88,7 @@ I am just a rookie, I wanna record some of my progress on this website
 I like playing table tennis outside the lab. I used to be a member of NUIST Team and Imperial College London. We have won several prizes and cups.
 - *2024*, BUCS Men's Premier (South), 1st.
 - *2024*, BUCS Men's South Eastern Tier 1, 1st.
-- *2021.06*, 第11届中国大学生阳光体育乒乓球比赛**第八名**
+- *2021.06*, the 11th Chinese University Students' Sunshine Sports Table Tennis Competition, 8th.
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -124,10 +124,11 @@ I like playing table tennis outside the lab. I used to be a member of NUIST Team
 
 
 # 👨‍🏫 Teaching Assistant
-- *2025 Autumn*, GEOG 4057, Selected Topics in the Geography of China (Physical& Environmental Geography)
-- *2025 Spring*, GEOG 4005, Advanced Climatology
+- *2025-2026 Semester 2*, GEOG 4005, Advanced Climatology
+- *2025-2026 Semester 1*, GEOG 4057, Selected Topics in the Geography of China (Physical& Environmental Geography)
+- *2024-2025 Semester 2*, GEOG 4005, Advanced Climatology
 
 
 
 
-Update：Aug/28/2025
+Update：Jan/09/2025

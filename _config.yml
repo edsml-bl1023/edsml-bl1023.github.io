@@ -7,10 +7,7 @@
 
 # Site Settings
 title                    : "Bofan Liu"
-# description              : ""
-description: >
-  Climate Modeling | Aerosols | ML
-  @ Department of Geography
+description              : "AAB 1043"
 
 repository               : "edsml-bl1023/edsml-bl1023.github.io"
 google_scholar_stats_use_cdn : true
@@ -27,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "LIU Bofan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "HKBU PhD student"
+  # bio              : "HKBU PhD student"
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : 

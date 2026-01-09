@@ -19,9 +19,7 @@ redirect_from:
 
 # About Me
 
-**Bofan Liu**  
-PhD Student | Climate Modeling | Aerosols | Machine Learning  
-Department of Geography, Hong Kong Baptist University (HKBU)
+PhD student at HKBU working on climate–aerosol interactions and machine learning.
 
 <!-- <a href="https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao" target="_blank">
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&label=citations&style=flat" />
@@ -34,7 +32,8 @@ Department of Geography, Hong Kong Baptist University (HKBU)
 
 ## Short Bio {#short-bio}
 
-I am currently a PhD student in the Department of Geography at Hong Kong Baptist University (HKBU), supervised by Prof. Meng Gao. My research focuses on climate–aerosol interactions and the application of machine learning methods in climate modeling. This website documents my research progress, academic activities, and selected outputs.
+I am a PhD student in the Department of Geography at Hong Kong Baptist University, supervised by Prof. Meng Gao. My research focuses on climate–aerosol interactions and machine learning applications in climate modeling. This website showcases my research and academic activities.
+
 
 ---
 

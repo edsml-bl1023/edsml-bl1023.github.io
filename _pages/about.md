@@ -23,8 +23,11 @@ redirect_from:
 PhD Student | Climate Modeling | Aerosols | Machine Learning  
 Department of Geography, Hong Kong Baptist University (HKBU)
 
-<a href="https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao" target="_blank">
+<!-- <a href="https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao" target="_blank">
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&label=citations&style=flat" />
+</a> -->
+<a href="https://scholar.google.com/citations?user=8Ni9HBQAAAAJ" target="_blank">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/edsml-bl1023/edsml-bl1023.github.io/main/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&label=citations" />
 </a>
 
 ---

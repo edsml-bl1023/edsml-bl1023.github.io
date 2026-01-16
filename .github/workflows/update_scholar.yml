@@ -5,11 +5,16 @@ on:
     - cron: "0 0 * * *"   # 每天 UTC 0 点运行
   workflow_dispatch:
 
+permissions:
+  contents: write   # 👈 关键：允许 push
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4

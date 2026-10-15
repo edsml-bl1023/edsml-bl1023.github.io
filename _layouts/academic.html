@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ site.title | escape }} · Climate &amp; Aerosol Research</title>
+<meta name="description" content="{{ page.excerpt | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ site.title | escape }} · Climate &amp; Aerosol Research">
+<meta property="og:description" content="{{ page.excerpt | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+<meta name="theme-color" content="#0a0a0a">
+<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}?v=terminal-3">
+</head>
+<body>
+<a class="skip-link" href="#content">Skip to content</a>
+<header class="site-header"><div class="nav-wrap">
+<a class="wordmark" href="{{ '/' | relative_url }}">bofan@earth<span>:</span>~</a>
+
+</div></header>
+<div class="site-grid">
+<aside class="profile" aria-label="Profile">
+<img class="portrait" src="{{ site.author.avatar | relative_url }}" alt="Bofan Liu" width="160" height="160">
+<h1 class="profile-name">Bofan Liu</h1><p class="profile-role">PhD candidate in Geography<br>Hong Kong Baptist University</p>
+<p class="location">Chicago, Illinois, US<br><span>Visiting · University of Chicago</span></p>
+<div class="profile-links"><a href="{{ site.author.googlescholar }}">Google Scholar ↗</a><a href="https://github.com/{{ site.author.github }}">GitHub ↗</a><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn ↗</a><a href="mailto:{{ site.author.email }}">Email ↗</a></div>
+<p class="profile-note">Climate–aerosol interactions<br>Earth system modeling<br>Machine learning</p>
+</aside>
+<nav class="section-nav" aria-label="Sections" id="section-nav"></nav>
+<div class="terminal-shell"><div class="terminal-bar"><span id="terminal-path">~/bofan/introduction</span></div>
+<main id="content" tabindex="-1">{{ content }}</main>
+<p class="shell-prompt" aria-hidden="true">bofan@earth:~ $ <span class="idle-cursor">_</span></p></div>
+</div>
+<footer><span>© {{ site.time | date: '%Y' }} Bofan Liu</span><a href="#about-me">Back to top ↑</a></footer>
+<script src="{{ "/assets/js/terminal.js" | relative_url }}?v=3" defer></script>
+{% include analytics.html %}
+</body>
+</html>

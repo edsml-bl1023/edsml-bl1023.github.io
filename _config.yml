@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Bofan Liu"
-description              : "AAB 1043"
+description              : "Bofan Liu — climate–aerosol interactions and machine learning for climate modeling."
+url                      : "https://edsml-bl1023.github.io"
+baseurl                  : ""
 
 repository               : "edsml-bl1023/edsml-bl1023.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,8 +25,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "LIU Bofan"
-  avatar           : "images/android-chrome-512x512.png"
-  # bio              : "HKBU PhD student"
+  avatar           : "images/bofan-profile.jpg"
+  # bio              : "HKBU PhD candidate"
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
